@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">FragmentFactory</string>
+    <string name="title_about">Module About</string>
 </resources>

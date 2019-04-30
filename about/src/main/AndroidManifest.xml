@@ -1,0 +1,17 @@
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+          xmlns:dist="http://schemas.android.com/apk/distribution"
+          xmlns:tools="http://schemas.android.com/tools"
+          tools:ignore="GoogleAppIndexingWarning"
+          package="com.example.about">
+    <dist:module
+            dist:onDemand="false"
+            dist:instant="false"
+            dist:title="@string/title_about">
+        <dist:fusing dist:include="true"/>
+    </dist:module>
+
+    <application>
+        <activity android:name=".AboutActivity"/>
+    </application>
+</manifest>
+

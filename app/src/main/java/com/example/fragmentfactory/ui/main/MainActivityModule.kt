@@ -14,7 +14,6 @@ import dagger.Module
 import dagger.android.ContributesAndroidInjector
 import dagger.multibindings.IntoMap
 
-
 /**
  * Created by kietnlt on 29 Apr 2019.
  */

@@ -8,11 +8,9 @@ import dagger.Component
 import dagger.android.AndroidInjector
 import dagger.android.support.AndroidSupportInjectionModule
 
-
 /**
  * Created by kietnlt on 29 Apr 2019.
  */
-
 @Component(
     modules = [
         AndroidSupportInjectionModule::class,

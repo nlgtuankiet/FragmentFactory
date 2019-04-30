@@ -2,7 +2,6 @@ package com.example.fragmentfactory.base
 
 import androidx.fragment.app.Fragment
 
-
 /**
  * Created by kietnlt on 29 Apr 2019.
  */
